@@ -42,3 +42,6 @@ next-env.d.ts
 .playwright-cli/
 .playwright-mcp/
 /output/playwright/
+
+.open-next
+.wrangler
